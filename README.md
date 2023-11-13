@@ -11,6 +11,8 @@ Time-based One-time Password generator
 * Export to QR code
 * Uses the Metro theme
 
+## Build
+As it needs .Net Framework4.5, I use the `windows-2019` in workflow.
 
 ## Screenshots
 
